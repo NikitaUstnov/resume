@@ -47,6 +47,9 @@ margin-bottom: 10px;
     transition: 250ms;
 
 }
+.t-me {
+    color:  #0088cc ;
+}
 .container {
     display: flex;
 }
@@ -56,6 +59,7 @@ margin-bottom: 10px;
     align-items: center;
     justify-content: space-evenly;
 }
+
 
 
 
