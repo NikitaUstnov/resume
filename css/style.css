@@ -23,6 +23,7 @@ a {
 
 img {
     display: block;
+   
 }
 h2, h3{
     color:  #262626;
@@ -110,6 +111,7 @@ aside {
 
 main {
  padding: 60px;
+ padding-left: 75px;
 }
 
 h2 {
